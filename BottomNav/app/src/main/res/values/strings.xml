@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FourElements</string>
+    <string name="title_Fire">Fire</string>
+    <string name="title_Air">Air</string>
+    <string name="title_Water">Water</string>
+    <string name="title_Earth">Earth</string>
+</resources>

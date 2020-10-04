@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_purple">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Water"
+        android:textColor="#000"
+        android:textSize="50dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="326dp"
+        android:layout_height="383dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="38dp"
+        android:layout_marginRight="38dp"
+        android:layout_marginBottom="203dp"
+        android:text="In the element of Water we literally deal with matters of life and death, of our genetic inheritance and all of our ancestors. Strangely, this is also the element of emotions. We all have to understand that our emotions have already been lived through by someone in our family tree, and they are passed on from generation to generation, mostly through the role of the mother."
+        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+</RelativeLayout>

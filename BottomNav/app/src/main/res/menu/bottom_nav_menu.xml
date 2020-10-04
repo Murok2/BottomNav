@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_Fire"
+        android:icon="@android:drawable/ic_notification_overlay"
+        android:title="Fire" />
+
+    <item
+        android:id="@+id/navigation_Air"
+        android:icon="@android:drawable/button_onoff_indicator_on"
+        android:title="Air" />
+
+    <item
+        android:id="@+id/navigation_Water"
+        android:icon="?android:attr/textSelectHandle"
+        android:title="Water" />
+    <item
+        android:id="@+id/navigation_Earth"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="Earth" />
+
+</menu>
